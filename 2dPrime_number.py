@@ -1,12 +1,12 @@
 """
 This is  a program to print prime numbers in interval of 200 and print those number in 2d array
-also find numbers which are anagram in those primne numbers and print those values
+also find numbers which are palindrome in those primne numbers and print those values
 
 
 To-Do
     * find prime numbers in range
     * append those prime numbers  in 2d array
-    *find anagram within those prime numbers
+    *find palindrome within those prime numbers
     * print data
 
 
