@@ -96,7 +96,7 @@ if __name__ == '__main__':
     H.insert(104, 1092837465)
     H.insert(105, 1056928374)
 
-    check = H.find(104)
+    check = H.find(4)
 if check == None:
     print("Data is not present in table")
 else:
